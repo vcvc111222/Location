@@ -1,0 +1,48 @@
+#map_div {
+    position: absolute;
+    width: 100%;
+    height: 50%;
+    padding: 0px;
+    border: 0px;
+}
+#map {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.scooter {
+    position: absolute;
+    background-color: black;
+    height: 3%;
+    width: 5%;
+    z-index: 2;
+}
+#scooter1 {
+    top: 5%;
+    left: 33%;
+}
+#scooter2 {
+    top: 8%;
+    left: 66%;
+}
+#scooter3 {
+    top: 14%;
+    left: 22%;
+}
+#scooter4 {
+    top: 16%;
+    left: 63%;
+}
+#scooter5 {
+    top: 27%;
+    left: 80%;
+}
+#button {
+    position: absolute;
+    width: 30%;
+    height: 5%;
+    bottom: 3%;
+    left: 35%;
+    font-size: 25px;
+    font-family: Microsoft JhengHei;
+}
